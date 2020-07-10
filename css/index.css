@@ -74,7 +74,7 @@ p {
 header {
     display: flex;
     width: 100%;
-    margin: 4% 0;
+    margin: 4.7% 0;
  
 }
 
@@ -94,6 +94,10 @@ nav a {
     text-decoration: none;
     color: black;
     font-size: 14px;
+}
+
+.main-img {
+    margin-bottom: 2.5%;
 }
 
 .top-content {
@@ -129,7 +133,6 @@ nav a {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -137,6 +140,36 @@ nav a {
     justify-content: center;
 }
 
+.teal {
+    background-color: teal;
+}
+.gold {
+    background-color: gold;
+}
+.cadetblue {
+    background-color: cadetblue;
+}
+.coral {
+    background-color: coral;
+}
+.crimson {
+    background-color: crimson;
+}
+.forestgreen {
+    background-color: forestgreen;
+}
+.darkorchid {
+    background-color: darkorchid;
+}
+.hotpink {
+    background-color: hotpink;
+}
+.indigo {
+    background-color: indigo;
+}
+.dodgerblue {
+    background-color: dodgerblue;
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -150,6 +183,8 @@ nav a {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
+
+
 
 footer {
     width: 100%;
